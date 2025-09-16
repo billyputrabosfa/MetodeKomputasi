@@ -1,1 +1,4 @@
 # MetodeKomputasi
+** Komputasi **
+## Hello ##
+`Hai`
